@@ -10,7 +10,7 @@ namespace CursoCSharp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Primeiro curso");
+            Console.WriteLine("Hello World");
         }
     }
 }

@@ -11,6 +11,8 @@ namespace CursoCSharp.Fundamentos
         static void Main()
         {
             Console.WriteLine("Primeiro");
+            Console.WriteLine("Programa");
+            Console.WriteLine("Terminou!");
         }
         
     }

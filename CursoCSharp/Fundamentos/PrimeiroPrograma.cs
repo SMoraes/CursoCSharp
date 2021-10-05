@@ -8,9 +8,9 @@ namespace CursoCSharp.Fundamentos
 {
     class PrimeiroPrograma
     {
-        static void Main()
+       public static void Executar()
         {
-            Console.WriteLine("Primeiro");
+            Console.Write("Primeiro");
             Console.WriteLine("Programa");
             Console.WriteLine("Terminou!");
         }

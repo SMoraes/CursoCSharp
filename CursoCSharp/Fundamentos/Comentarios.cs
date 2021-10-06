@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace CursoCSharp.Fundamentos
 {
     /// <summary>
-    /// 
+    /// Comntário XML para documentar o seu sistema.
     /// </summary>
     class Comentarios
     {

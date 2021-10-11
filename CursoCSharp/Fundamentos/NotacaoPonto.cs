@@ -13,6 +13,15 @@ namespace CursoCSharp.Fundamentos
             var saudacao = "olá".ToUpper().Insert(3, " Gabrielly").Replace("Gabrielly", "Adriano");
 
             Console.WriteLine(saudacao);
+
+            Console.WriteLine("Adriano".Length);
+
+            /*
+             *  Atráves da Notação ponto conseguimos acessar funcionalidades, metodos e valores. 
+             */
+
+            string valorImportante = null;
+            Console.WriteLine(valorImportante?.Length);
         }
     }
 }

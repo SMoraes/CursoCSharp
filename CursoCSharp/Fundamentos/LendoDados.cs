@@ -17,6 +17,7 @@ namespace CursoCSharp.Fundamentos
             double salario = double.Parse(Console.ReadLine(),
                 CultureInfo.InvariantCulture);
 
+
             Console.WriteLine($" O meu nome é {nome} minha idade {idade} e meu salário é: R${salario}");
         }
     }

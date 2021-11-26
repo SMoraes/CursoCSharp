@@ -76,5 +76,5 @@ namespace CursoCSharp.ClassesEMetodos
 
             Console.WriteLine(resultado);
         }
-    }
+    } 
 }

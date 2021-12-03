@@ -54,6 +54,7 @@
     <Compile Include="ClassesEMetodos\ParametrosNomeados.cs" />
     <Compile Include="ClassesEMetodos\Params.cs" />
     <Compile Include="ClassesEMetodos\Pessoa.cs" />
+    <Compile Include="ClassesEMetodos\Readonly.cs" />
     <Compile Include="EstruturaDeControle\EstruturaDoWhile.cs" />
     <Compile Include="EstruturaDeControle\EstruturaFor.cs" />
     <Compile Include="EstruturaDeControle\EstruturaForEach.cs" />
@@ -81,7 +82,7 @@
     <Compile Include="Fundamentos\VariaveisEConstantes.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Props.cs" />
+    <Compile Include="ClassesEMetodos\Props.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

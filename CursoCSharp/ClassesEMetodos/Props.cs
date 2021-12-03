@@ -10,8 +10,11 @@ namespace CursoCSharp
     {
         public class CarroOpcional
         {
+            // Variáveis interna(privada)
             double desconto = 0.1;
             string nome;
+
+            // Propriedade púbica
             public string Nome 
             {
                 get

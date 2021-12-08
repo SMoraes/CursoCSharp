@@ -58,6 +58,7 @@
     <Compile Include="ClassesEMetodos\Readonly.cs" />
     <Compile Include="ClassesEMetodos\Struct.cs" />
     <Compile Include="ClassesEMetodos\StructVsClass.cs" />
+    <Compile Include="ClassesEMetodos\ValorVsReferencia.cs" />
     <Compile Include="EstruturaDeControle\EstruturaDoWhile.cs" />
     <Compile Include="EstruturaDeControle\EstruturaFor.cs" />
     <Compile Include="EstruturaDeControle\EstruturaForEach.cs" />

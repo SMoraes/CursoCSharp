@@ -11,11 +11,11 @@ namespace CursoCSharp.Colecoes
         public static void Executar()
         {
             string[] alunos = new string[5];
-            alunos[0] = "Adriano";
-            alunos[1] = "Gabrielly";
-            alunos[2] = "Sergio";
-            alunos[3] = "Andrea";
-            alunos[4] = "Solony";
+            alunos[0] = "adriano";
+            alunos[1] = "gabrielly";
+            alunos[2] = "sergio";
+            alunos[3] = "andrea";
+            alunos[4] = "solony";
 
             foreach (var aluno in alunos)
             {

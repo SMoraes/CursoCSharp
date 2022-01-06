@@ -24,6 +24,10 @@ namespace CursoCSharp.Colecoes
             bool mesmoPreco = Preco == outroProduto.Preco;
             return mesmoNome && mesmoPreco;
         }
+        public override int GetHashCode()
+        {
+            return Nome.Length;
+        }
     }
     class ColecoesList
     {

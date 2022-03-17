@@ -105,5 +105,11 @@
     <None Include="App.config" />
     <None Include="README.md" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Encapsulamento\Encapsulamento.csproj">
+      <Project>{85f8dccf-5a93-48e8-863e-a52510cb1ea7}</Project>
+      <Name>Encapsulamento</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

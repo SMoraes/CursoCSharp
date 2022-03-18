@@ -19,7 +19,7 @@ namespace CursoCSharp.OO
     {
         public override string Assistente()
         {
-            return "Olá! Meu nome é Bixby!";
+            return "Olá! Meu nome é Bixby";
         }
     }
 

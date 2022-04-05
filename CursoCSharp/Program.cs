@@ -81,7 +81,8 @@ namespace CursoCSharp {
                 {"Selead - OO", Selead.Executar},
 
                 //  Metodos e Funções
-                {"Exemplo Lambda - Métodos & Funções", ExemploLambda.Executar},
+                {"Exemplo Lambda   - Métodos & Funções", ExemploLambda.Executar},
+                {"Lambdas Com  Delegates - Métodos & Funções", LambdaDelegate.Executar},
 
 
 

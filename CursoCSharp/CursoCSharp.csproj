@@ -94,6 +94,8 @@
     <Compile Include="Fundamentos\OperadorTernario.cs" />
     <Compile Include="Fundamentos\PrimeiroPrograma.cs" />
     <Compile Include="Fundamentos\VariaveisEConstantes.cs" />
+    <Compile Include="MetodosEFuncoes\DelegateFunAnonima.cs" />
+    <Compile Include="MetodosEFuncoes\DelegatesComoParametros.cs" />
     <Compile Include="MetodosEFuncoes\ExemploLambda.cs" />
     <Compile Include="MetodosEFuncoes\LambdaDelegate.cs" />
     <Compile Include="MetodosEFuncoes\UsandoDelegate.cs" />

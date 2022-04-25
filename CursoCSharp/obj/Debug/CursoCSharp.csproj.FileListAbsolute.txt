@@ -8,3 +8,4 @@ C:\Users\sergi\source\repos\CursoCSharp\CursoCSharp\bin\Debug\Encapsulamento.pdb
 C:\Users\sergi\source\repos\CursoCSharp\CursoCSharp\obj\Debug\CursoCSharp.csproj.CopyComplete
 C:\Users\sergi\source\repos\CursoCSharp\CursoCSharp\obj\Debug\CursoCSharp.exe
 C:\Users\sergi\source\repos\CursoCSharp\CursoCSharp\obj\Debug\CursoCSharp.pdb
+C:\Users\sergi\source\repos\CursoCSharp\CursoCSharp\obj\Debug\CursoCSharp.csproj.SuggestedBindingRedirects.cache

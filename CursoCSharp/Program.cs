@@ -107,7 +107,8 @@ namespace CursoCSharp {
 
                 // LINQ Topicos Avançados
                 {"LINQ #01 Tópicos Avançados - Api", LINQ1.Executar},
-                {"LINQ #02 Tópicos Avançados - Api", LINQ2.Executar}
+                {"LINQ #02 Tópicos Avançados - Api", LINQ2.Executar},
+                {"Nullables Tópicos Avançados - Api", Nullables.Executar}
             });
 
             central.SelecionarEExecutar();
